@@ -9,6 +9,6 @@ entries:
     name: libCommonUtils
     type: library
     urls:
-    - https://bvaughan-nexient.github.io/libCommonUtils/libCommonUtils-0.0.1.tgz
+    - https://bvaughan-nexient.github.io/helm-repo/libCommonUtils/libCommonUtils-0.0.1.tgz
     version: 0.0.1
 generated: "2024-02-01T13:38:30.157907-06:00"
