@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  libCommonConfigMap:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-02-01T14:49:52.295118-06:00"
+    dependencies:
+    - name: libCommonUtils
+      repository: https://bvaughan-nexient.github.io/helm-repo/libCommonUtils
+      version: 0.0.1
+    description: A Helm chart for Kubernetes
+    digest: 45a8bc3a92279528f020074bddfb838d0d19f7cf5fe1c53da756a1a23f677e1b
+    name: libCommonConfigMap
+    type: library
+    urls:
+    - https://bvaughan-nexient.github.io/helm-repo/libCommonConfigMap/libCommonConfigMap-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-02-01T14:49:52.294834-06:00"
